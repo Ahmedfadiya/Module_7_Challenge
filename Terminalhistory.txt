@@ -1,0 +1,50 @@
+  458  pip install voila
+  459  conda list voila
+  460  conda install -c conda-forge voila
+  461  conda activate dev
+  462  conda install -c conda-forge voila
+  463  cd desktop/Challenge_Folder/Module_7_Challenge/
+  464  cd Module_7_Challenge/Starter_Code/
+  465  ls
+  466  voila etf_analyzer.ipynb
+  467  cd desktop/Challenge_Folder/Module_7_Challenge/
+  468  cd Module_7_Challenge/Starter_Code/
+  469  ls
+  470  voila etf_analyzer.ipynb
+  471  cd desktop/Challenge_Folder/Module_7_Challenge/Module_7_Challenge/Starter_Code/
+  472  ls
+  473  voila etf_analyzer.ipynb
+  474  cd desktop/Challenge_Folder/Module_7_Challenge/Module_7_Challenge/Starter_Code/
+  475  ls
+  476  voila etf_analyzer.ipynp
+  477  ls
+  478  voila etf_analyzer.ipynb
+  479  cd desktop/Challenge_Folder/Module_7_Challenge/Module_7_Challenge/Starter_Code/
+  480  ls
+  481  voila etf_analyzer.ipynp
+  482  cd desktop/Challenge_Folder/Module_7_Challenge/Module_7_Challenge/Starter_Code/
+  483  ls
+  484  voila etf_analyzer.ipynp
+  485  voila etf_analyzer.ipynp
+  486  cd desktop/Challenge_Folder/Module_7_Challenge/Module_7_Challenge/Starter_Code/
+  487  ls
+  488  voila etf_analyzer.ipynp
+  489  conda activate dev
+  490  ls
+  491  voila etf_analyzer.ipynp
+  492  cd desktop/Challenge_Folder/Module_7_Challenge/Module_7_Challenge/Starter_Code/
+  493  ls
+  494  voila etf_analyzer.ipynp
+  495  conda activate dev
+  496  ls
+  497  voila etf_analyzer.ipynp
+  498  cd desktop/Challenge_Folder/Module_7_Challenge/Module_7_Challenge/Starter_Code/
+  499  ls
+  500  voila etf_analyzer.ipynp
+  501  cd desktop/Challenge_Folder/Module_7_Challenge/Module_7_Challenge/
+  502  git status
+  503  git add .
+  504  git status
+  505  git commit -m "final submission of challenge"
+  506  git push
+  507  history 50 > Terminalhistory.txt
